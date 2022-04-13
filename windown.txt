@@ -28,7 +28,7 @@ _1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/softwa
 
 
 
-; 2022-03 Windows 10 1809 基于 x86 系统的累计更新
+; 2022-04 Windows 10 1809 基于 x86 系统的累计更新
 
 _1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012647-x86_35bd0bbe02b7ecfad0ce7e09946f780dcd142f15.msu
 
